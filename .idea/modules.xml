@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ASD_UNI.iml" filepath="$PROJECT_DIR$/.idea/ASD_UNI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOMUTO-QUICKSORT/LOMUTO-QUICKSORT.iml" filepath="$PROJECT_DIR$/LOMUTO-QUICKSORT/LOMUTO-QUICKSORT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadTablica/ZadTablica.iml" filepath="$PROJECT_DIR$/ZadTablica/ZadTablica.iml" />
+    </modules>
+  </component>
+</project>
